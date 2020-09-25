@@ -1,13 +1,57 @@
+html {
+  height: 100%;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(#22c1c3, #fdbb2d);
+  height: 95%;
+}
+h1 {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+.container {
+  background-color: rgba(255,255,255,0.9);
+  padding: 1rem;
+  border-radius: 1.5rem;
+  margin-top: 2rem;  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+form, .mensajes {
+  padding: 2rem;
+  max-width: 600px;  
+  margin: auto auto;
+}
+.mensajes {
+  text-align: center;
+}
+.resultado {
+  border: 8px solid #61d700;
+  padding: 3rem 0;
+  margin: 0 auto;
+}
+form label {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.error {
+  background-color: white;
+  border:3px solid red;
+  padding: .5rem;
+  text-align: center;
+  color: red;
+  text-transform: uppercase;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.resultado p {
+  margin: 0;
 }
