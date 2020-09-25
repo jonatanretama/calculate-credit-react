@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calculate-credit-react/static/css/main.ea0b92df.chunk.css",
+    "main.js": "/calculate-credit-react/static/js/main.9acf4527.chunk.js",
+    "main.js.map": "/calculate-credit-react/static/js/main.9acf4527.chunk.js.map",
+    "runtime-main.js": "/calculate-credit-react/static/js/runtime-main.2472069f.js",
+    "runtime-main.js.map": "/calculate-credit-react/static/js/runtime-main.2472069f.js.map",
+    "static/js/2.be2f48be.chunk.js": "/calculate-credit-react/static/js/2.be2f48be.chunk.js",
+    "static/js/2.be2f48be.chunk.js.map": "/calculate-credit-react/static/js/2.be2f48be.chunk.js.map",
+    "index.html": "/calculate-credit-react/index.html",
+    "precache-manifest.f28bfca396a6a4988eb26739be3c4f21.js": "/calculate-credit-react/precache-manifest.f28bfca396a6a4988eb26739be3c4f21.js",
+    "service-worker.js": "/calculate-credit-react/service-worker.js",
+    "static/css/main.ea0b92df.chunk.css.map": "/calculate-credit-react/static/css/main.ea0b92df.chunk.css.map",
+    "static/js/2.be2f48be.chunk.js.LICENSE.txt": "/calculate-credit-react/static/js/2.be2f48be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2472069f.js",
+    "static/js/2.be2f48be.chunk.js",
+    "static/css/main.ea0b92df.chunk.css",
+    "static/js/main.9acf4527.chunk.js"
+  ]
+}
